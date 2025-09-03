@@ -1,0 +1,43 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "browserslist": "^4.25.4",
+    "callsites": "^3.1.0",
+    "citty": "^0.1.6",
+    "define-data-property": "^1.1.4",
+    "fast-check": "^3.23.2",
+    "functions-have-names": "^1.2.3",
+    "globals": "^13.24.0",
+    "is-bigint": "^1.1.0",
+    "path-is-absolute": "^1.0.1",
+    "perfect-debounce": "^1.0.0",
+    "queue-microtask": "^1.2.3",
+    "reusify": "^1.1.0",
+    "shebang-regex": "^3.0.0",
+    "simple-swizzle": "^0.2.2",
+    "styled-jsx": "^5.1.6",
+    "tapable": "^2.2.3",
+    "tinyglobby": "^0.2.14",
+    "which-boxed-primitive": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+  "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anicodes404/todo-frontend.git"
+  },
+  "author": "Aishe N Ibrahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anicodes404/todo-frontend/issues"
+  },
+  "homepage": "https://github.com/anicodes404/todo-frontend#readme"
+}
